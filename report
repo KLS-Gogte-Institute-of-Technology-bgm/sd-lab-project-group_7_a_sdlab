@@ -1,0 +1,6 @@
+“Healthcare Assistant” is the Java GUI based application, which provides a user friendly interaction with the system to know the remedies for particular health issue that a user
+wants to know.
+The user is asked to enter the system through logging in to the system. The user is asked to enter the user name and password. If the entered username is valid then the user can
+get logged in to the system, else he is given with invalid user message. If the user is new to the system, he is asked to get registered to the system by providing the required
+details. The user is asked to enter the Name, age, Health issues, username, password and confirm password.  The details entered are been stored in the MYSQL database.
+When the user gets logged in to the system, the main is opened. There the used is asked to choose the health issue that he is facing, when the user chooses the health issue, the remedies are been displayed to the user. The remedies contain allopathic, homeopathic and home remedies for the particular issue. The user can choose other health issues to know the remedies for them. Once done the user can close the system.
